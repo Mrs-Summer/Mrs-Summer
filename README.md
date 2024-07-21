@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mrs-Summer
+- 📫 My links:
+  - [CodeWars](https://www.codewars.com/users/Kracks/)
+  - CodeRun - как нибудь залью решения задачек 😄
+- ⚡ Completed courses:
+   - Udemy Курс The Complete JavaScript Course 2024: From Zero to Expert! 
+   - Udemy Build Responsive Real-World Websites with HTML and CSS. 
