@@ -4,4 +4,5 @@
   - CodeRun - как нибудь залью решения задачек 😄
 - ⚡ Completed courses:
    - Udemy Курс The Complete JavaScript Course 2024: From Zero to Expert! 
-   - Udemy Build Responsive Real-World Websites with HTML and CSS. 
+   - Udemy Build Responsive Real-World Websites with HTML and CSS.
+   - Udemy Mastering Regular Expressions in JavaScript
